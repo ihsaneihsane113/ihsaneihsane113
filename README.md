@@ -1,20 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm [Your Name]
 
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/896131d7-ec67-4df9-8f32-21198a7879ae" />" 
+### 👨‍💻 Full-Stack Web Developer
+I specialize in the **TALL Stack** and building robust administrative panels with **Filament**. Currently diving deep into **Docker** and containerization.
 
+---
 
+### 🛠️ My Tech Stack
+- **Languages:** PHP, JavaScript, SQL
+- **Frameworks:** Laravel (Livewire), React
+- **Styling:** Tailwind CSS, CSS3
+- **Tools:** Docker, Git, Redis, Nginx
 
-<!--
-**ihsaneihsane113/ihsaneihsane113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radial)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Let's Connect
+- LinkedIn: [link]
+- Portfolio: [link]
